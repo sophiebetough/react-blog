@@ -5,7 +5,7 @@
 |----------|------|-----|
 | 會員 | user01 | Lidemy |
 
-- [Demo]()
+- [Demo](https://sophiebetough.github.io/react-blog/)
 - [Lidemy API](https://github.com/Lidemy/lidemy-student-json-api-server)
 
 
