@@ -8,8 +8,7 @@
 - [Demo](https://sophiebetough.github.io/react-blog/)
 - [Lidemy API](https://github.com/Lidemy/lidemy-student-json-api-server)
 
-- ![image](https://github.com/sophiebetough/react-blog/blob/main/public/react-blog-demo.gif)
-
+![image](https://github.com/sophiebetough/react-blog/blob/main/public/react-blog-demo2.gif)
 
 ### 核心功能
 - 登入、註冊功能，非會員可透過測試用身份登入。
@@ -20,9 +19,9 @@
 - 刪除功能，會員可在 archive 頁面，管理自己發布的文章。
 - 分頁功能，透過發文時間順序，由新到舊排列，5 篇為一頁。
 
-- ![image](https://github.com/sophiebetough/react-blog/blob/main/public/sing-in-and-out.png)
-- ![image](https://github.com/sophiebetough/react-blog/blob/main/public/homepage-demo.png)
-- ![image](https://github.com/sophiebetough/react-blog/blob/main/public/pagelist-demo.png)
+![image](https://github.com/sophiebetough/react-blog/blob/main/public/login-and-logout-demo.png)
+![image](https://github.com/sophiebetough/react-blog/blob/main/public/home-page-demo.png)
+![image](https://github.com/sophiebetough/react-blog/blob/main/public/page-list-demo.png)
 
 ### 使用技術
 - 以 React、React-router，配合 Lidemy API 資料，建置部落格（Blog）。
