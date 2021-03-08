@@ -16,12 +16,12 @@
 - 檢視所有文章功能，可透過首頁來瀏覽全部文章。
 - 顯示單篇文章內容功能，可進一步呈現更多關於文章資訊（標題、作者、單篇文章全部內容）。
 - 發布文章功能，登入成為會員之後，可以發布新文章。
-- 刪除功能，會員可在 archive 頁面，管理自己發布的文章。
+- 刪除功能，會員可在 archive 頁面，管理自己的文章。
 - 分頁功能，透過發文時間順序，由新到舊排列，5 篇為一頁。
 
-![image](https://github.com/sophiebetough/react-blog/blob/main/public/login-and-logout-demo.png)
-![image](https://github.com/sophiebetough/react-blog/blob/main/public/home-page-demo.png)
-![image](https://github.com/sophiebetough/react-blog/blob/main/public/page-list-demo.png)
+![image](https://github.com/sophiebetough/react-blog/blob/main/public/login-logout-demo.png)
+![image](https://github.com/sophiebetough/react-blog/blob/main/public/homepage-demo.png)
+![image](https://github.com/sophiebetough/react-blog/blob/main/public/postlist-demo.png)
 
 ### 使用技術
 - 以 React、React-router，配合 Lidemy API 資料，建置部落格（Blog）。
